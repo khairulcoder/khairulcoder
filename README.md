@@ -63,11 +63,10 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 ### ☕ Connect with me!
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="your-email@gmail.com" height="40" width="40" /></a>
+  <a href="mailto:contact@khairulcoder.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="your-email@gmail.com" height="40" width="40" /></a>
   <a href="https://www.facebook.com/khairulcoderonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/facebook.svg" alt="khairulcoderonly" height="40" width="40" /></a>
   <a href="https://twitter.com/khairulcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" alt="khairulcoder" height="40" width="40" /></a>
   <a href="https://www.youtube.com/channel/khairulcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/youtube.svg" alt="khairulcoder" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="40" width="40" /></a>
   <a href="http://khairulcoder.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/portfolio.svg" alt="khairulcoder.com" height="40" width="40" /></a>
 </p>
 
