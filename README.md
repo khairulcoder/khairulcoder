@@ -62,12 +62,25 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 
 ### ☕ Connect with me!
 
-<p align="left">
-  <a href="mailto:contact@khairulcoder.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="your-email@gmail.com" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/khairulcoderonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/facebook.svg" alt="khairulcoderonly" height="40" width="40" /></a>
-  <a href="https://twitter.com/khairulcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" alt="khairulcoder" height="40" width="40" /></a>
-  <a href="https://www.youtube.com/channel/khairulcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/youtube.svg" alt="khairulcoder" height="40" width="40" /></a>
-  <a href="http://khairulcoder.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/portfolio.svg" alt="khairulcoder.com" height="40" width="40" /></a>
+<p align="center">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/khairulcoderonly" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://twitter.com/khairulcoder" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="https://www.youtube.com/channel/khairulcoder" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="youtube"/>
+  </a>
+   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="http://khairulcoder.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=plastic&logo=icloud&logoColor=white" alt="website"/>
+  </a>
 </p>
 
 ---
