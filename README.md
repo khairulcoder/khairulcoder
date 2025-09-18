@@ -1,69 +1,65 @@
-<h1 align="center">👋 Hi, I'm Khairul Coder</h1>
+<h1 align="center">Hi there 👋, I'm Khairul Islam</h1>
 <h3 align="center">A Front-End Developer Focused on Responsive & Conversion-Driven Websites</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IauL6m2WEclgI/giphy.gif" width="450" />
+  <img src="https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/518880758_1282815799856487_1856710362719830749_n.png?stp=dst-png_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEo5dFkgZajccEbJLcAcoXpO_hjzapwh907-GPNqnCH3Y_MiCLS7vfu68SI0Evagm83WXZ4SzeyWVTRL9zSztbv&_nc_ohc=OJwpP2-ZaA4Q7kNvwGV-B4b&_nc_oc=AdlG03aPFucnkZGwF8pPDNzt0O6qfBpB4-h0vf2W6eyVFjIdBDHFD1G-cP9hWf3h4gA&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=ioYtkAl6WFWz68w3279A2A&oh=00_AfYwADQkJ0gT5zWqa1kR1wjRsDm-pUJucmXbbnTQcpAXGQ&oe=68D1F5C0" alt="Khairul Islam's Profile Banner" width="800"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khairulcoder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://www.facebook.com/khairulcoderonly" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+  </a>
+  <a href="https://twitter.com/khairulcoder" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="https://www.youtube.com/channel/khairulcoder" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
+  </a>
+  <a href="http://khairulcoder.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=icloud&logoColor=white" alt="website"/>
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a passionate Front-End Developer on a mission to build web experiences that are not only beautiful and responsive but also drive business results. My focus is on **Conversion Rate Optimization (CRO)**, meaning I design and develop websites with the primary goal of turning visitors into customers.
+I am a **conversion-focused eCommerce Developer** who helps grow your business through design and marketing strategy.
 
-I believe a great website is a perfect blend of clean code, intuitive user experience (UX), and strategic design. I am currently deepening my expertise in core web technologies to build seamless and engaging user interfaces.
-
-- 🌱 I’m dedicated to mastering **HTML, CSS, and JavaScript** to build a strong foundational skill set.
-- 🎯 My goal is to create websites that significantly improve user engagement and conversion rates.
-- 💬 I'm always open to discussing front-end development, UI/UX design principles, and conversion strategies.
+* **My Specialty:** Creating websites on the WordPress and Shopify platforms that are not only beautiful but also capable of increasing sales.
+* **My Core Strength:** Increasing conversion rates by improving website design, marketing strategy, and user experience (UX). I am more than a developer; I am a **strategic partner**.
+* **My Technical Skills:** I am currently learning HTML, CSS, and JavaScript to strengthen my coding skills and perfectly execute my designs.
 
 ---
 
-### 🚀 My Core Focus
-
-I specialize in creating web solutions that provide real value to businesses:
-
-- **Responsive Web Design:** Crafting pixel-perfect layouts that provide a flawless user experience on any device, from mobile phones to desktops.
-- **Conversion-Focused Development:** Implementing strategic UI/UX, clear calls-to-action (CTAs), and trust signals to guide users and boost conversions.
-- **Performance Optimization:** Ensuring websites are fast, accessible, and optimized for search engines (SEO) to retain users and rank higher.
-- **Interactive UI with JavaScript:** Building dynamic and engaging user interfaces to make websites feel alive and intuitive.
-
----
-
-### 🛠️ My Tech Stack & Tools
+### 🛠️ Skills & Tools
 
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="50" height="50"/> </a>
+  <img src="https://img.shields.io/badge/WordPress-Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Development"/>
+  <img src="https://img.shields.io/badge/Shopify-Design_&_Setup-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Design & Setup"/>
+  <img src="https://img.shields.io/badge/JavaScript-Custom_Features-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-Responsive_Design-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Canva-Graphics_&_Branding-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/AI_Tools-Automation_&_Content-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairulcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="khairulcoder's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairulcoder&layout=compact&theme=tokyonight&hide_border=true" alt="khairulcoder's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khairulcoder&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="khairulcoder's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairulcoder&layout=compact&theme=tokyonight&hide_border=true" alt="khairulcoder's top languages" />
 </p>
 
----
-
-### 🔗 Connect with Me
-
-Let's connect and talk about technology and design!
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=khairulcoder&theme=tokyonight&column=7" alt="Trophy" />
+</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/khairulcoderonly" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://legiit.com/khairulcoder" target="_blank">
-    <img src="https://img.shields.io/badge/Legiit-00A9FF?style=for-the-badge&logo=legiit&logoColor=white" alt="Legiit"/>
-  </a>
-  <a href="mailto:[your-email@gmail.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img align="center" src="https://streak-stats.demolab.com/?user=khairulcoder&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
