@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Khairul Islam</h1>
-<h3 align="center">A Front-End Developer Focused on Responsive & Conversion-Driven Websites</h3>
+<h1 align="left">Hi there 👋, I'm Khairul Islam</h1>
+<h2 align="left">A Front-End Developer Focused on Responsive & Conversion-Driven Websites</h3>
 
 <p align="center">
   <img src="https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/518880758_1282815799856487_1856710362719830749_n.png?stp=dst-png_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEo5dFkgZajccEbJLcAcoXpO_hjzapwh907-GPNqnCH3Y_MiCLS7vfu68SI0Evagm83WXZ4SzeyWVTRL9zSztbv&_nc_ohc=OJwpP2-ZaA4Q7kNvwGV-B4b&_nc_oc=AdlG03aPFucnkZGwF8pPDNzt0O6qfBpB4-h0vf2W6eyVFjIdBDHFD1G-cP9hWf3h4gA&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=ioYtkAl6WFWz68w3279A2A&oh=00_AfYwADQkJ0gT5zWqa1kR1wjRsDm-pUJucmXbbnTQcpAXGQ&oe=68D1F5C0" alt="Khairul Islam's Profile Banner" width="800"/>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a **conversion-focused eCommerce Developer** who helps grow your business through design and marketing strategy.
 
@@ -57,14 +57,6 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 ✅ Canva Graphics
 <br>
 ✅ AI Tools Automation & Content
-
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairulcoder&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="khairulcoder's top languages" />
-</p>
 
 ---
 
@@ -92,6 +84,6 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 
 ### 📧 For Business Inquiries
 
-✅ ► [your-email@gmail.com]
+► [contact@khairulcoder.com]
 
 ---
