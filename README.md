@@ -37,7 +37,7 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 
 ### 🛠️ Skills & Tools
 
-Skills: 
+Skills:
 ✅ WordPress Development
 ✅ Shopify Design & Setup
 ✅ JavaScript (Custom Features)
