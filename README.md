@@ -63,7 +63,7 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 ### ☕ Connect with me!
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:contact@khairulcoder.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.facebook.com/khairulcoderonly" target="_blank">
