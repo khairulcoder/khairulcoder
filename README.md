@@ -1,3 +1,6 @@
+<h1 align="center">Hi there 👋, I'm Khairul Islam</h1>
+<h3 align="center">A Front-End Developer Focused on Responsive & Conversion-Driven Websites</h3>
+
 <p align="center">
   <a href="https://github.com/khairulcoder">
     <img src="https://komarev.com/ghpvc/?username=khairulcoder&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
@@ -45,18 +48,21 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 
 ### ☕ Connect with me!
 
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/khairulcoderonly" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://twitter.com/khairulcoder" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/khairulcoder" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="youtube"/>
   </a>
    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="http://khairulcoder.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=plastic&logo=icloud&logoColor=white" alt="website"/>
   </a>
 </p>
 
