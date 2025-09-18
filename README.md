@@ -30,7 +30,7 @@
 I am a **conversion-focused eCommerce Developer** who helps grow your business through design and marketing strategy.
 
 * **My Specialty:** Creating websites on the WordPress and Shopify platforms that are not only beautiful but also capable of increasing sales.
-* **My Core Strength:** Increasing conversion rates by improving website design, marketing strategy, and user experience (UX). I am more than a developer; I am a **strategic partner**.
+* **My Core Strength:** Increasing **conversion rates** by improving website design, marketing strategy, and user experience (UX). I am more than a developer; I am a **strategic partner**.
 * **My Technical Skills:** I am currently learning HTML, CSS, and JavaScript to strengthen my coding skills and perfectly execute my designs.
 
 ---
@@ -38,13 +38,15 @@ I am a **conversion-focused eCommerce Developer** who helps grow your business t
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Development"/>
-  <img src="https://img.shields.io/badge/Shopify-Design_&_Setup-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Design & Setup"/>
-  <img src="https://img.shields.io/badge/JavaScript-Custom_Features-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-Responsive_Design-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Canva-Graphics_&_Branding-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/AI_Tools-Automation_&_Content-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools"/>
+  <img src="https://img.shields.io/badge/WordPress-Development-21759B?style=plastic&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Shopify-Design_&_Setup-95BF47?style=plastic&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/JavaScript-Custom_Features-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-Responsive_Design-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-Responsive_Design-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Canva-Graphics_&_Branding-00C4CC?style=plastic&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/AI_Tools-Automation_&_Content-4A90E2?style=plastic&logo=openai&logoColor=white" alt="AI Tools"/>
 </p>
 
 ---
