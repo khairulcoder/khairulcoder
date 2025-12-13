@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋, I'm Khairul Islam</h1>
 <h3 align="left">A Front-End Developer Focused on Responsive & Conversion-Driven Websites</h3>
 
-<p align="center">
-  <img src="https://khairulcoder.com/" alt="Khairul Islam's Profile Banner" width="800"/>
-</p>
+<!-- <p align="center">
+  <img src="" alt="Khairul Islam's Profile Banner" width="800"/>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/khairulcoder" target="_blank">
