@@ -2,7 +2,7 @@
 <h3 align="left">A Front-End Developer Focused on Responsive & Conversion-Driven Websites</h3>
 
 <p align="center">
-  <img src="https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/518880758_1282815799856487_1856710362719830749_n.png?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEo5dFkgZajccEbJLcAcoXpO_hjzapwh907-GPNqnCH3Y_MiCLS7vfu68SI0Evagm83WXZ4SzeyWVTRL9zSztbv&_nc_ohc=bUFr5Y2cE9gQ7kNvwGAX7U7&_nc_oc=Adnj7arNRSfkTa4LDdEmkOIAanqDh5-QA-Q0yCYpeYBtS3P5XB8kak8xcf3dRxFOaec&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=EmKlsAxyKLzcokxS0MXDFw&oh=00_AfcPL3B6Qr9DO10VETMcDEH-FPuioe2T7fYr2SqFM9yl7w&oe=68E6D580" alt="Khairul Islam's Profile Banner" width="800"/>
+  <img src="0" alt="Khairul Islam's Profile Banner" width="800"/>
 </p>
 
 <p align="center">
